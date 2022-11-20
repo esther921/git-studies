@@ -1,1 +1,1 @@
-# git-studies
+# git-study
